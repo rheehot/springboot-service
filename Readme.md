@@ -17,7 +17,7 @@
 |JDK|JDK 14|
 |Gradle|4.10.2|
         * Gradle version downgrade
-        p.74 http://bit.ly/382Q7d7  
+        p.74 <http://bit.ly/382Q7d7>  
 ## DAY 1
 ---
 - **Intellij로 프로젝트 만들기**
