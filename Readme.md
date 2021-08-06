@@ -14,7 +14,7 @@
 |운영체제|Window 10|
 |개발 툴|IntelliJ|
 |JDK|JDK 14|
-|Gradle| 4.8~4.10.2|
+|Gradle|4.10.2|
         * Gradle version downgrade
         p.74 http://bit.ly/382Q7d7  
 ## DAY 1
