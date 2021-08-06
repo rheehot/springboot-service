@@ -2,7 +2,7 @@
 ## - 교재 
 
 
-<img src="./img/Book.jpg" width="300" height="600">
+<img src="./img/Book.jpg" width="400" height="600">
 
 **스프링 부트와 AWS로 혼자 구현하는 웹 서비스 - 이동욱 지음**      
 
