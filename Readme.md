@@ -13,7 +13,7 @@
 | - |버전|
 |---|---|
 |운영체제|Window 10|
-|개발 툴|IntelliJ|
+|개발 툴|IntelliJ IDEA 2021.1|
 |JDK|JDK 14|
 |Gradle|6.7.1|
         * Gradle version downgrade
