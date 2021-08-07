@@ -15,9 +15,12 @@
 |운영체제|Window 10|
 |개발 툴|IntelliJ|
 |JDK|JDK 14|
-|Gradle|4.10.2|
+|Gradle|6.7.1|
         * Gradle version downgrade
-        p.74 http://bit.ly/382Q7d7
+        p.74 http://bit.ly/382Q7d7 
+        * Gradle version upgrade 
+        https://jojoldu.tistory.com/539
+        
 ## DAY 1
 ---
 - **Intellij로 프로젝트 만들기**
