@@ -1,4 +1,4 @@
-package com.jojoldu.book.springboot;
+package com.hyeb.book.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
