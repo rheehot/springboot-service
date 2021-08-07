@@ -9,7 +9,7 @@
 
 
 ## 개발환경
- ---
+ 
 
 | - |버전|
 |---|---|
@@ -23,7 +23,7 @@
         https://jojoldu.tistory.com/539
         
 ## DAY 1
----
+
 - **Intellij로 프로젝트 만들기**
     - gradle project에서 springboot project로 변경하기 
 - **Test code 작성하기**
