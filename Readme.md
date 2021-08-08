@@ -86,3 +86,14 @@
     - 트랜잭션, 도메인 기능 간의 순서를 보장하는 Service
 - 수정 API만들기에서 PostApiControllerTest Test 
 => JSON 파싱 에러 해결하지 못했음 ..  
+
+
+## DAY 3
+
+
+- 에러 해결 : PostApiController에 update 코드 추가 안 함.. 🤦‍♀️
+
+- 조회 API 만들기
+- JPA Auditing으로 생성/수정 시간 자동화 
+- Template engine
+- Mustache 
