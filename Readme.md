@@ -97,3 +97,20 @@
 - JPA Auditing으로 생성/수정 시간 자동화 
 - Template engine
 - Mustache 
+
+
+## DAY 4
+- 게시글 등록 화면 만들기 
+    - Bootstrao
+    - layout 디렉토리 추가 -> footer.mustache, header.mustache 파일 생성, 공통 코드 작성 
+- 전체 조회 화면 만들기
+    - @Query 사용 -> SpringDataJpa에서 제공하지 않은 메소드 쿼리로 작성
+    - @Transactional(readOnly = true) -> 트랜잭션 범위 유지, 조회만 가능 = 조회 속도 개선
+
+- 게시글 수정, 삭제 화면 만들기    
+- Rest에서 CRUD
+    - CREATE - POST
+    - READ - GET
+    - UPDATE - PUT
+    - DELETE - DELETE
+
