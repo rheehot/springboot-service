@@ -22,7 +22,8 @@
         * Gradle version upgrade 
         https://jojoldu.tistory.com/539
         
-## DAY 1
+<details>
+##<summary> DAY 1 </summary>
 
 - **Intellij로 프로젝트 만들기**
     - gradle project에서 springboot project로 변경하기 
@@ -49,10 +50,10 @@
       => '언제 어디서나 같은 환경에서 스트링 부트를 배포' 
       
       => 서버에 톰캣을 설치할 필요가 없고 스프링 부트로 만들어진 JAR로 실행 
+      </details>
       
-      
-
-## DAY 2
+<details>
+##<summary> DAY 2 </summary>
 
 - ### 관계형 DB를 이용하는 project에서 OOP 문제점
     1. 관계형 데이터베이스는 SQL만 인식 -> **단순 반복 작업 문제** 
@@ -86,9 +87,10 @@
     - 트랜잭션, 도메인 기능 간의 순서를 보장하는 Service
 - 수정 API만들기에서 PostApiControllerTest Test 
 => JSON 파싱 에러 해결하지 못했음 ..  
+</details>
 
-
-## DAY 3
+<details>
+##<summary> DAY 3 </summary>
 
 
 - 에러 해결 : PostApiController에 update 코드 추가 안 함.. 🤦‍♀️
@@ -96,10 +98,11 @@
 - 조회 API 만들기
 - JPA Auditing으로 생성/수정 시간 자동화 
 - Template engine
-- Mustache 
+- Mustache
+</details>
 
-
-## DAY 4
+<details>
+##<summary> DAY 4 </summary>
 - 게시글 등록 화면 만들기 
     - Bootstrao
     - layout 디렉토리 추가 -> footer.mustache, header.mustache 파일 생성, 공통 코드 작성 
@@ -113,4 +116,12 @@
     - READ - GET
     - UPDATE - PUT
     - DELETE - DELETE
+</details>
+
+<details>
+##<summary> DAY 5 </summary>
+- 구글 서비스 등록
+- 구글 로그인 연동하기
+- 스프링 시큐리티 설정
+- 로그인 테스트
 
