@@ -23,7 +23,7 @@
         https://jojoldu.tistory.com/539
         
 <details>
-##<summary> DAY 1 </summary>
+<summary> DAY 1 </summary>
 
 - **Intellij로 프로젝트 만들기**
     - gradle project에서 springboot project로 변경하기 
@@ -53,7 +53,7 @@
       </details>
       
 <details>
-##<summary> DAY 2 </summary>
+<summary> DAY 2 </summary>
 
 - ### 관계형 DB를 이용하는 project에서 OOP 문제점
     1. 관계형 데이터베이스는 SQL만 인식 -> **단순 반복 작업 문제** 
@@ -90,7 +90,7 @@
 </details>
 
 <details>
-##<summary> DAY 3 </summary>
+<summary> DAY 3 </summary>
 
 
 - 에러 해결 : PostApiController에 update 코드 추가 안 함.. 🤦‍♀️
@@ -102,7 +102,7 @@
 </details>
 
 <details>
-##<summary> DAY 4 </summary>
+<summary> DAY 4 </summary>
 - 게시글 등록 화면 만들기 
     - Bootstrao
     - layout 디렉토리 추가 -> footer.mustache, header.mustache 파일 생성, 공통 코드 작성 
@@ -119,7 +119,7 @@
 </details>
 
 <details>
-##<summary> DAY 5 </summary>
+<summary> DAY 5 </summary>
 - 구글 서비스 등록
 - 구글 로그인 연동하기
 - 스프링 시큐리티 설정
